@@ -1,0 +1,13 @@
+//Either the number is positive or negative
+#include<stdio.h>
+#include<conio.h>
+void main(){
+int n=10;
+if(i>0){
+printf("Positve");
+}
+else
+{
+printf("Negative");
+}
+}
